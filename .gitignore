@@ -10,3 +10,5 @@ __pycache__/
 
 # VSCode or PyCharm config (optional)
 .vscode/
+
+results/
