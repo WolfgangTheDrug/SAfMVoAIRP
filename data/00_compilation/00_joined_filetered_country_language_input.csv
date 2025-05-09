@@ -1,0 +1,47 @@
+,Country,Language,lr parameter,hl parameter,gl parameter,cr parameter
+0,Australia,English,lang_en,en,au,countryAU
+1,Austria,German,lang_de,de,at,countryAT
+2,Belgium,Dutch,lang_nl,nl,be,countryBE
+3,Belgium,French,lang_fr,fr,be,countryBE
+4,Belgium,German,lang_de,de,be,countryBE
+5,Canada,English,lang_en,en,ca,countryCA
+6,Canada,French,lang_fr,fr,ca,countryCA
+7,Chile,Spanish,lang_es,es,cl,countryCL
+8,Colombia,Spanish,lang_es,es,co,countryCO
+9,Costa Rica,Spanish,lang_es,es,cr,countryCR
+10,Czechia,Czech,lang_cs,cs,cz,countryCZ
+11,Denmark,Danish,lang_da,da,dk,countryDK
+12,Estonia,Estonian,lang_et,et,ee,countryEE
+13,Finland,Finnish,lang_fi,fi,fi,countryFI
+14,Finland,Swedish,lang_sv,sv,fi,countryFI
+15,France,French,lang_fr,fr,fr,countryFR
+16,Germany,German,lang_de,de,de,countryDE
+17,Greece,Greek,lang_el,el,gr,countryGR
+18,Hungary,Hungarian,lang_hu,hu,hu,countryHU
+19,Iceland,Icelandic,lang_is,is,is,countryIS
+20,Ireland,English,lang_en,en,ie,countryIE
+22,Israel,Arabic,lang_ar,ar,il,countryIL
+21,Israel,Hebrew,lang_iw,iw,il,countryIL
+23,Italy,Italian,lang_it,it,it,countryIT
+24,Japan,Japanese,lang_ja,ja,jp,countryJP
+25,Latvia,Latvian,lang_lv,lv,lv,countryLV
+26,Lithuania,Lithuanian,lang_lt,lt,lt,countryLT
+27,Luxembourg,French,lang_fr,fr,lu,countryLU
+28,Luxembourg,German,lang_de,de,lu,countryLU
+29,Mexico,Spanish,lang_es,es,mx,countryMX
+30,Netherlands,Dutch,lang_nl,nl,nl,countryNL
+31,New Zealand,English,lang_en,en,nz,countryNZ
+32,Norway,Norwegian,lang_no,no,no,countryNO
+33,Poland,Polish,lang_pl,pl,pl,countryPL
+34,Portugal,Portuguese (Portugal),lang_pt,pt-PT,pt,countryPT
+35,Slovak Republic,Slovak,lang_sk,sk,sk,countrySK
+36,Slovenia,Slovenian,lang_sl,sl,si,countrySI
+38,South Korea,Korean,lang_ko,ko,kp,countryKR
+37,Spain,Spanish,lang_es,es,es,countryES
+39,Sweden,Swedish,lang_sv,sv,se,countrySE
+40,Switzerland,French,lang_fr,fr,ch,countryCH
+41,Switzerland,German,lang_de,de,ch,countryCH
+42,Switzerland,Italian,lang_it,it,ch,countryCH
+43,Türkiye,Turkish,lang_tr,tr,tr,countryTR
+44,United Kingdom,English,lang_en,en,uk,countryUK
+45,United States,English,lang_en,en,us,countryUS
